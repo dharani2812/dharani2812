@@ -1,100 +1,103 @@
 <div align="center">
 
-# 🚀 Dharani Dharan
-### Full Stack Developer | React.js • Node.js • MongoDB
+# 👋 Hi, I'm Dharani Dharan
 
-💻 Building modern web applications  
-🌍 Creating clean, fast and scalable user experiences  
-
-🌐 Portfolio  
-https://dharanidharan.tech
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Web+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-✨ Passionate about building **real-world web applications**  
-⚡ Love working with **React, Node.js, and modern UI design**  
-📚 Currently improving **Backend Development & System Design**  
-🎯 Goal: Become a **high-level software engineer**
+💻 Full Stack Developer passionate about building modern web applications  
+⚡ Skilled in creating responsive, performance-focused websites  
+🌱 Currently improving backend development and system design  
+🎯 Goal: Become a highly skilled software engineer  
+
+🌐 **Portfolio**  
+https://dharanidharan.tech
 
 ---
 
-## ⚡ Tech Stack
+# 🛠 Tech Stack
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,scss,tailwind" />
+</p>
 
 ### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏗 Property Builder Landing Page
-Modern real-estate architecture landing page with premium UI.
+Modern architecture landing page with premium UI design.
 
 🔗 https://property-builder-landing-page.netlify.app/
 
 ---
 
 ### 🍔 Waste Food Redistribution Platform
-Full Stack Web Application to connect food donors with people in need.
+A full-stack web application connecting food donors with people in need.
 
 ⚙ React.js • Node.js • Express.js • MongoDB
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharani2812&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=dharani2812&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharani2812&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharani2812&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharani2812&layout=compact&theme=tokyonight" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharani2812&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
 
-🌍 Portfolio  
-https://dharanidharan.tech
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+🌐 Portfolio  
+https://dharanidharan.tech  
 
 💼 LinkedIn  
-(Add your LinkedIn)
+(Add your LinkedIn profile link)
 
-📧 Open to **Internships & Developer Opportunities**
+📧 Open to **Internships / Developer Opportunities**
 
 ---
 
-⭐ *Always learning, building and improving.*
+⭐ Always learning, building, and improving.
