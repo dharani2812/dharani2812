@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dharani Dharan</h1>
+<h3 align="center">Full Stack Developer | React.js | Node.js</h3>
 
-<!--
-**dharani2812/dharani2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate **Full Stack Developer**
+- ⚡ Building real-world **web applications**
+- 🌱 Currently improving **Backend & System Design**
+- 🎯 Goal: Become a **Top Software Engineer**
+
+---
+
+### 🛠 Tech Stack
+
+💻 Frontend  
+HTML5 • CSS3 • JavaScript • React.js • SCSS • Tailwind CSS
+
+⚙ Backend  
+Node.js • Express.js
+
+🗄 Database  
+MongoDB
+
+🛠 Tools  
+Git • GitHub • VS Code • Netlify
+
+---
+
+### 🌐 Portfolio
+
+🔗 https://dharanidharan.tech
+
+---
+
+### 🚀 Featured Projects
+
+🏗 Property Builder Landing Page  
+https://property-builder-landing-page.netlify.app/
+
+🍔 Waste Food Redistribution Platform  
+Full Stack Project using React + Node.js + MongoDB
+
+---
+
+### 📊 GitHub Stats
+
+![Dharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharani2812&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharani2812&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect With Me
+
+🌐 Portfolio  
+https://dharanidharan.tech
+
+💼 LinkedIn  
+(Add your LinkedIn link here)
+
