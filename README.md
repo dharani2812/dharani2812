@@ -94,7 +94,7 @@ A full-stack web application connecting food donors with people in need.
 https://dharanidharan.tech  
 
 💼 LinkedIn  
-(Add your LinkedIn profile link)
+https://www.linkedin.com/in/dharaniharan/
 
 📧 Open to **Internships / Developer Opportunities**
 
